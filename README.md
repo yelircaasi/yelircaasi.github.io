@@ -1,3 +1,3 @@
-# yelircaasi.github.io
+# Isaac Riley
 
 Repository of my personal website
